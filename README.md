@@ -19,5 +19,7 @@ It has a test for each feature.
 
 In the same direcotry run `pytest`. 
 
+Please see sample tests in the features_test.py and sample execution of test below:
+![Test Sample Screenshot](test_screenshot.png)
 
 
