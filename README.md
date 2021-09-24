@@ -1,4 +1,4 @@
-# capstone_individual_excercise
+# capstone_group_excercise
 
 
 ### Features
