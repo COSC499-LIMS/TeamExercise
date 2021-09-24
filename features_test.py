@@ -7,5 +7,5 @@ from main import *
 Write a test for each feature below
 """
 def test_feature3():
-    assert first_half('testtest') == 'test'
+    assert first_half("testtest")=="test"
 
