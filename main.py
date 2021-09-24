@@ -15,7 +15,7 @@ def feature2(word):
     """
     return word[1]
   
-def feature3(input):
+def feature3(word):
     """
     This feature returns the user the first half of the word
     """
