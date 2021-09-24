@@ -1,12 +1,12 @@
-# capstone_group_excercise
+# capstone_individual_excercise
 
 
 ### Features
 
-1. First Char
-2. Second Char
-3. First Half Substring
-4. Last Half Substring
+1. first char
+2. second char
+3. first half substring
+4. last half substring
 
 
 ### Testing
