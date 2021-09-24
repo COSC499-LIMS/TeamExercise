@@ -1,5 +1,5 @@
 # capstone_group_excercise
-
+main.py is a program to find substrings of a word. For this assignment, there are four features implmented by one developer each. 
 
 ### Features
 
