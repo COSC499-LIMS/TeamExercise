@@ -7,5 +7,5 @@ from main import *
 Write a test for each feature below
 """
 
-def test_feature2():
+def test_feature1():
     assert feature2("Teacher")=='T'
