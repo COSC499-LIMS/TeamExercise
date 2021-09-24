@@ -1,3 +1,4 @@
+
 """
 Team exercise git
 """
@@ -13,6 +14,13 @@ def feature2(word):
     This feature returns to the user the second letter in the word
     """
     return word[1]
+  
+def feature3(input):
+    """
+    This feature returns the user the first half of the word
+    """
+    end = int(len(word) / 2)
+    print(input[0:end])
 
 def feature4(word):
     """
