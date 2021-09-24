@@ -12,6 +12,6 @@ def test_feature1():
 def test_feature2():
     assert feature2("Teacher")=='e'
 def test_feature3():
-    assert first_half("testTEST")=="test"
+    assert feature3("testTEST")=="test"
 def test_feature4():
     assert feature4("0011") == "11"
